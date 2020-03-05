@@ -10,5 +10,5 @@ setup(
    author='Nicola Procopio',
    url="https://github.com/MagicBusApp/",
    packages=['magicsearch'],  #same as name
-   install_requires=['json', 'requests'], #external packages as dependencies
+   install_requires=['requests'], #external packages as dependencies
 )
