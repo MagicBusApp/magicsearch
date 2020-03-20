@@ -1,4 +1,11 @@
 # MagicSearch
+
+<br>
+
+![logo](https://github.com/nickprock/wRappoveRpass/blob/img/magicsearch.png)
+
+<br>
+
 ### A simple wrapper for Overpass API download and others utils function.
 This library is useful to download bus stop from OSM. Is the Python version about MagicWrap, actually is work in progress.
 
